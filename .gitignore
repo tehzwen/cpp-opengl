@@ -1,0 +1,4 @@
+engine
+.vscode
+*.dSYM
+.DS_Store
